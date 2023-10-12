@@ -30,6 +30,5 @@
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliana-rios/)
-[![Instagram](https://img.shields.io/badge/Instagram-8A2BE2.svg?logo=instagram&logoColor=white)](https://www.linkedin.com/in/eliana-rios/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-8A2BE2.svg?logo=instagram&logoColor=white)](https://www.instagram.com/eliana._jansen/)
 
