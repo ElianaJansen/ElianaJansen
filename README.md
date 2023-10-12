@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Eliana</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Eliana</a> 🙋‍♀️ </h1>
+  <h3 align="center">Una apasionda del Frontend GIS y Javascript 💛 </h3>
 </div>
-<!--<img src="https://i.imgur.com/weNbhGZ.png">-->
 
 ## Sobre mi
 
