@@ -10,6 +10,4 @@
 - 🎤 Singer
 - 📗 Autora de mi libro en creación "Curvando el espacio tiempo"
 
-### ⚙️ &nbsp;GitHub Analytics
-
 
