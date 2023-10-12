@@ -1,4 +1,4 @@
-#!(https://raw.githubusercontent.com/ElianaJansen/ElianaJansen/main/perfil.jpg) 
+#!(https://raw.githubusercontent.com/ElianaJansen/ElianaJansen/main/perfil.png) 
 <div align="center">
 <h1 align="center">Hola, soy Eliana</a> 🙋‍♀️ </h1>
   <h3 align="center">Una apasionda del Frontend GIS y Javascript 💛 </h3>
