@@ -29,7 +29,7 @@
 </div>
 
 ## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliana-rios/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliana-rios/)
 [![Instagram](https://img.shields.io/badge/Instagram-%E2392B.svg?logo=instagram&logoColor=white)](https://www.linkedin.com/in/eliana-rios/)
 
 
