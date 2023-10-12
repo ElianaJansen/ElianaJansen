@@ -3,7 +3,7 @@
   <h3 align="center">Una apasionda del Frontend GIS y Javascript 💛 </h3>
 </div>
 
-## Sobre mi
+## 💥 Sobre mi
 
 - 🌍 Geomatic girl
 - 📲 Frontend developer
@@ -12,8 +12,9 @@
 
 <br>
 
+##  👩‍💻 Tech Stack 
+
 - <div align="left">
-    <h3> 👩‍💻 Tech Stack </h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -29,4 +30,6 @@
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliana-rios/)
+[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+
 
