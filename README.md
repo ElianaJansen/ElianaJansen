@@ -1,6 +1,6 @@
-
 <div align="center">
-<h1 align="center">Hola, soy Eliana</a> 🙋‍♀️ </h1>
+<h1 align="center">Hola, soy Eliana
+  <img width= 7% src="https://github.com/ElianaJansen/ElianaJansen/assets/62431281/460fadeb-348a-42fe-a0d5-6048d423331c"></h1>
   <h3 align="center">Una apasionda del Frontend GIS y Javascript 💛 </h3>
 </div>
 
