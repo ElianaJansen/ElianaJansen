@@ -6,7 +6,7 @@
 
 ## ✨. Sobre mi
 
-- 🌍 Geomatic girl/Geographic Information System
+- 🌍 Geomatic & Geographic Information System girl
 - 📲 Frontend developer
 - 🎤 Singer
 - 📗 Autora de mi libro en creación "Curvando el espacio tiempo"
