@@ -4,7 +4,7 @@
   <h3 align="center">Una apasionda del Frontend GIS y Javascript 💛 </h3>
 </div>
 
-## 💥 Sobre mi
+## ✨. Sobre mi
 
 - 🌍 Geomatic girl/Geographic Information System
 - 📲 Frontend developer
